@@ -90,7 +90,8 @@
 				213D5C811AB1980700AD803E /* LaunchScreen.xib */,
 				213D5C721AB1980700AD803E /* Supporting Files */,
 			);
-			path = TestSourceTree;
+			name = TestSourceTree;
+			path = TestSourceTree_;
 			sourceTree = "<group>";
 		};
 		213D5C721AB1980700AD803E /* Supporting Files */ = {
@@ -414,6 +415,7 @@
 				213D5C941AB1980700AD803E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		213D5C951AB1980700AD803E /* Build configuration list for PBXNativeTarget "TestSourceTreeTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +424,7 @@
 				213D5C971AB1980700AD803E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
